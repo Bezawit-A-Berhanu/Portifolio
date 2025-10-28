@@ -964,8 +964,6 @@ main {
   display: flex;
   flex-direction: column;
   gap: 3rem;
-  background: radial-gradient(circle at top left, #0d0d0d 0%, #080808 100%);
-  border-radius: 20px;
 }
 
 .project-list {
